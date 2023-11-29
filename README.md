@@ -16,7 +16,7 @@ Prototype Link <br>
 Resources: <br>
 Prototype Link: https://xd.adobe.com/spec/5c97cdf9-bda2-47f1-7c8f-27c7fd5963dd-2aa6/  <br>
 Assets: https://drive.google.com/drive/folders/1IQskoXeGPylSJ6jougNChX0UZPDXp22l?usp=sharing <br>
-GitHub:  <br>
+GitHub: https://github.com/dljimenez2324/Challenge3PuppyRestaurant <br>
 
 Changes: <br>
 See GitHub for history of changes
