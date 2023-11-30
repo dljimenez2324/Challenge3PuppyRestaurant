@@ -17,6 +17,10 @@
     background-image: url("/images/bgtexture.jpg");
     background-repeat: repeat;
 }
+
+.footerFontMargin {
+    margin-bottom: 10px;
+}
 /* 
 .background-image {
     
