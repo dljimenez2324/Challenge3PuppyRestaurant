@@ -1,0 +1,27 @@
+/* Start fonts */
+@font-face {
+    font-family: Montauk;
+    font-weight: Regular;
+    src: url(/fonts/Montauk-Regular.otf) format("opentype");
+}
+
+.montaukFont {
+    font-family: 'Montauk';
+    color: #5F002B;
+}
+/* End fonts */
+
+
+/* Start Common Styles */
+.pageBg {
+    background-image: url("/images/bgtexture.jpg");
+    background-repeat: repeat;
+}
+/* 
+.background-image {
+    
+    background-repeat:repeat;
+    width: 600px;
+    height: 400px;
+} */
+/* End Common Styles */
