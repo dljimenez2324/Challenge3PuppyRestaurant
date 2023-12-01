@@ -29,23 +29,51 @@ body {
     margin-bottom: 10px;
 }
 
-.footerMarginLeft {
-    margin-left: 140px;
-}
-
-.footerMarginRight {
-    margin-right: 140px;
-}
 
 .background-image { 
     background-repeat:repeat;
     width: 600px;
     height: 400px;
 }
+
+.fontColor {
+    color:#5F002B;
+}
+
+.footerPaddingL{
+    padding-left: 0px !important;
+}
+
+.footerPaddingR{
+    padding-right: 0px !important;
+}
 /* End Common fonts, Navbar, Footer & Background */
 
 /* Start Current Page Styles */
+/* Start Catering Section Styles */
+h1{
+    font-family: 'Fugaz One';
+    font-weight: normal;
+    font-size: 50px;
+    padding-top: 8px;
+}
+
+.heroBg {
+    background-color: #FFFFFF;
+}
+
+/* End Catering Section Styles */
 
 
 
 /* End Current Page Styles */
+
+
+/* !!!!TRASH / OLD CODE BELOW!!! */
+/* .footerMarginLeft {
+    margin-left: 140px;
+}
+
+.footerMarginRight {
+    margin-right: 140px;
+} */
