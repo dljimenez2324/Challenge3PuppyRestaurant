@@ -3,4 +3,20 @@
     color: #5F002B;
     font-family: 'Fugaz One';
     font-weight: normal;
+    margin-right: 61px;
 }
+
+body {
+    background-image: url('../images/bgtexture.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+}
+
+.navbar-brand {
+    margin-left: 9%; /* Adjust the value as needed to move the logo to the right */
+}
+
+  .nav-item:last-child {
+    margin-right: 140px;
+  }
