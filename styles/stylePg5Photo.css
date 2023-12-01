@@ -1,0 +1,51 @@
+/* Start Common fonts, Navbar, Footer & Background */
+@font-face {
+    font-family: Montauk;
+    font-weight: Regular;
+    src: url(/fonts/Montauk-Regular.otf) format("opentype");
+}
+
+.montaukFont {
+    font-family: 'Montauk';
+    color: #5F002B;
+}
+
+.navbar-nav .nav-link {
+    font-size: 20px;
+    color: #5F002B;
+    font-family: 'Fugaz One';
+    font-weight: normal;
+    margin-right: 61px;
+}
+
+body {
+    background-image: url('../images/bgtexture.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+}
+
+.footerFontMargin {
+    margin-bottom: 10px;
+}
+
+.footerMarginLeft {
+    margin-left: 140px;
+}
+
+.footerMarginRight {
+    margin-right: 140px;
+}
+
+.background-image { 
+    background-repeat:repeat;
+    width: 600px;
+    height: 400px;
+}
+/* End Common fonts, Navbar, Footer & Background */
+
+/* Start Current Page Styles */
+
+
+
+/* End Current Page Styles */
