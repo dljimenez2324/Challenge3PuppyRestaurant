@@ -10,6 +10,9 @@
     color: #5F002B;
 }
 
+.navbar {
+    margin-bottom: 1%;
+}
 .navbar-nav .nav-link {
     font-size: 20px;
     color: #5F002B;
@@ -46,6 +49,7 @@ body {
     background-position: center; 
     background-repeat: no-repeat; 
 }
+
 /* End Common fonts, Navbar, Footer & Background */
 
 /* Start Current Page Styles */
@@ -56,13 +60,31 @@ h1{
     font-size: 50px;
     padding-top: 8px;
 }
+
+.cateringBg {
+    background-color: #FFFFFF;
+    
+}
 /* End Catering Section Styles */
 
 /* Start Hero Image Section */
-.heroBg {
-    background-color: #FFFFFF;
+.heroImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4.65%;
+    margin-bottom: 4.65%;
+    /* width: 50%; */
+
 }
 /* End Hero Image Section */
+
+/* Start of Services Section */
+.catServ {
+
+}
+/* End of Services Section */
+
 
 /* test margins */
 .mainContainerMargins {
