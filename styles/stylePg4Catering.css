@@ -86,7 +86,7 @@ h1{
 /* End of Services Section */
 
 
-/* test margins */
+/* test margins / padding */
 .mainContainerMargins {
     margin-left: 140px !important;
     margin-right: 140px !important;
@@ -98,6 +98,10 @@ h1{
 
 .paddingLeftZeroed {
     padding-left: 0px !important;
+}
+
+.marginBottomBottom {
+    margin-bottom: 4.65%;
 }
 /* End Current Page Styles */
 
