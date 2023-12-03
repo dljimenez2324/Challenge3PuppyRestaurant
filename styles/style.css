@@ -18,6 +18,11 @@
     margin-right: 61px;
 }
 
+/* test margins */
+.testMargin {
+    margin-right: 0px !important;
+}
+
 body {
     background-image: url('../images/bgtexture.jpg');
     background-size: cover; 
@@ -45,7 +50,10 @@ body {
 /* End Common fonts, Navbar, Footer & Background */
 
 /* Start Current Page Styles */
-
-
+/* Navbar styles */
+.navbarMargins {
+    margin-left: 140px !important;
+    margin-right: 140px !important;
+}
 
 /* End Current Page Styles */

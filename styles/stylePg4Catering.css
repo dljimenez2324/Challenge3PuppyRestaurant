@@ -15,7 +15,17 @@
     color: #5F002B;
     font-family: 'Fugaz One';
     font-weight: normal;
-    margin-right: 61px;
+    margin-left: 61px;
+}
+
+/* test margins */
+.mainContainerMargins {
+    margin-left: 140px !important;
+    margin-right: 140px !important;
+}
+
+.navPaddingZeroed {
+    padding-right: 0px !important;
 }
 
 body {
