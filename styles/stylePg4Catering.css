@@ -72,7 +72,7 @@ h1{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 4.65%;
+    margin-top: 5vh;
     margin-bottom: 4.65%;
     /* width: 50%; */
 
@@ -80,8 +80,16 @@ h1{
 /* End Hero Image Section */
 
 /* Start of Services Section */
-.catServ {
-
+.servBg {
+    background-color: #FFFFFF;
+}
+h3 {
+    font-family: 'Fugaz One';
+    font-size: 1.875rem;
+}
+p {
+   font-size: 1.25rem; 
+   /* !!!! need to fix spacing between lines!!!!! */
 }
 /* End of Services Section */
 
