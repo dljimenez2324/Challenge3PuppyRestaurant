@@ -75,7 +75,12 @@ h1{
     margin-top: 5vh;
     margin-bottom: 5vh;
     height: auto;
+    padding: 0;
+    /* max-width: 100%;  */
+}
 
+.thatThing {
+    max-width: 100%;
 }
 /* End Hero Image Section */
 
