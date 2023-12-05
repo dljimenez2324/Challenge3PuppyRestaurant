@@ -98,6 +98,15 @@ p {
 }
 /* End of Services Section */
 
+/* Start Row of Pics */
+.caterPics {
+    marginBottom: 4.65% !important;
+}
+
+.caterPicSize {
+
+}
+/* End Row of Pics */
 
 /* test margins / padding */
 .mainContainerMargins {
@@ -115,6 +124,11 @@ p {
 
 .marginBottom {
     margin-bottom: 4.65%;
+}
+
+.overallMarginLR {
+    margin-left: 7.3%;
+    margin-right: 7.3%;
 }
 /* End Current Page Styles */
 
