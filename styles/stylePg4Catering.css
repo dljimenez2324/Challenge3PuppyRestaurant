@@ -100,11 +100,14 @@ p {
 
 /* Start Row of Pics */
 .caterPics {
-    marginBottom: 4.65% !important;
+    margin-bottom: 4.65% !important;
+    padding-left: 0;
+    padding-right: 0;
 }
 
 .caterPicSize {
-
+    height: auto;
+    max-width: 100%;
 }
 /* End Row of Pics */
 
