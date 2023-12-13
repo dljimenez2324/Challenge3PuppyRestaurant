@@ -13,6 +13,17 @@
 .navbar {
     margin-bottom: 1%;
 }
+
+.paddingRightZeroed {
+    padding-right: 0px !important;
+    /* used in navbar */
+}
+
+.overallMarginLR {
+    margin-left: 7.3%;
+    margin-right: 7.3%;
+    /* used in navbar */
+}
 .navbar-nav .nav-link {
     font-size: 20px;
     color: #5F002B;
@@ -50,6 +61,7 @@ body {
     background-repeat: no-repeat; 
 }
 
+
 /* End Common fonts, Navbar, Footer & Background */
 
 /* Start Current Page Styles */
@@ -82,13 +94,22 @@ h1{
 .maxWidth {
     max-width: 100%;
 }
+
+.paddingLeftZeroed {
+    padding-left: 0px !important;
+}
 /* End Hero Image Section */
 
 /* Start of Services Section */
+.marginBottom {
+    margin-bottom: 4.65%;
+}
+
 .caterSpacing {
     display: flex;
     /* justify-content: space-evenly; */
 }
+
 .cateringImg {
     height:100%;
     max-width: 100%;
@@ -98,7 +119,6 @@ h1{
     /* trying to make image have similar height as the text column */
 }
 
-
 .servBg {
     background-color: #FFFFFF;
     padding-top: 2.5rem;
@@ -106,10 +126,12 @@ h1{
     padding-right: 2.5rem;
     padding-bottom: 2rem;
 }
+
 h3 {
     font-family: 'Fugaz One';
     font-size: 1.875rem;
 }
+
 p {
    font-size: 1.25rem; 
    /* !!!! need to fix spacing between lines!!!!! */
@@ -149,42 +171,4 @@ p {
 }
 /* End Row of Pics */
 
-/* test margins / padding */
-.mainContainerMargins {
-    margin-left: 140px !important;
-    margin-right: 140px !important;
-}
-
-.paddingRightZeroed {
-    padding-right: 0px !important;
-}
-
-.paddingLeftZeroed {
-    padding-left: 0px !important;
-}
-
-.marginBottom {
-    margin-bottom: 4.65%;
-}
-
-.overallMarginLR {
-    margin-left: 7.3%;
-    margin-right: 7.3%;
-}
 /* End Current Page Styles */
-
-
-
-
-
-
-
-
-/* !!!!TRASH / OLD CODE BELOW!!! */
-/* .footerMarginLeft {
-    margin-left: 140px;
-}
-
-.footerMarginRight {
-    margin-right: 140px;
-} */
