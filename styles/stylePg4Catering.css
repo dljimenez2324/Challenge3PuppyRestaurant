@@ -85,8 +85,18 @@ h1{
 /* End Hero Image Section */
 
 /* Start of Services Section */
+.cateringImg {
+    height:100%;
+    max-width: 100%;
+    object-fit: 100%;
+}
+
 .servBg {
     background-color: #FFFFFF;
+    padding-top: 2.5rem;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    padding-bottom: 2rem;
 }
 h3 {
     font-family: 'Fugaz One';
