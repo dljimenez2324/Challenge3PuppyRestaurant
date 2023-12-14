@@ -82,16 +82,15 @@ body {
 }
 
 .photoGrid {
-    /* display: block;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 1rem; */
-
+    /* display: flex; */
+    /* grid-template-columns: repeat(4, 1fr); */
+    /* gap: 1rem; */
+    margin-bottom: 2rem;
 }
 
 .photoStyle {
     min-height: 100%;
     object-fit: cover;
-    border-right: ;
-    border: #FFFFFF solid;
+    border: 1vw #FFFFFF solid;
 }
 /* End Current Page Styles */
