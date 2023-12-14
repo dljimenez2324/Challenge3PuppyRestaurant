@@ -58,7 +58,7 @@ body {
     background-image: url('../images/bgtexture.jpg');
     background-size: cover; 
     background-position: center; 
-    background-repeat: no-repeat; 
+    /* background-repeat: no-repeat;  */
     color: #5F002B;
     /* all text same color added in previous line for this page */
 }
@@ -68,7 +68,30 @@ body {
 /* Start Current Page Styles */
 
 .ribbonBg {
-    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFFFFF;
+    font-family: 'Fugaz One';
+    margin-bottom: 2rem;
 }
 
+.ribbonText {
+    margin:auto;
+    /* padding: 1rem; */
+}
+
+.photoGrid {
+    /* display: block;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem; */
+
+}
+
+.photoStyle {
+    min-height: 100%;
+    object-fit: cover;
+    border-right: ;
+    border: #FFFFFF solid;
+}
 /* End Current Page Styles */
