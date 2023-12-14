@@ -21,4 +21,5 @@ GitHub: https://github.com/dljimenez2324/Challenge3PuppyRestaurant <br>
 Changes: <br>
 See GitHub for history of changes
 Reviewer: <br>
-Name here -  
+Name here -  Johnny Pham
+Pages from david's part (caterings & photos) looks amazing. The responsiveness is nicely done. Only critque i have is maybe touch up the footer when the page gets smaller, other than that everything looks good! 
