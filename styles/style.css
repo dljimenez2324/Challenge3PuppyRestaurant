@@ -4,20 +4,56 @@
     color: #5F002B;
     font-family: 'Fugaz One';
     font-weight: normal;
-    margin-right: 61px;
+    margin-right: 35px;
 }
 
 body {
     background-image: url('../images/bgtexture.jpg');
     background-size: cover; 
     background-position: center; 
-    background-repeat: no-repeat; 
+    /* background-repeat: no-repeat;  */
 }
 
 .navbar-brand {
-    margin-left: 9%; /* Adjust the value as needed to move the logo to the right */
+    margin-left: 9%; 
 }
 
-  .nav-item:last-child {
-    margin-right: 140px;
+.nav-item:last-child {
+    margin-right:48px;
   }
+.index-name{
+    margin-top: 1%;
+    font-family: 'Fugaz One', sans-serif; 
+    font-size: 40px;
+    font-weight: normal; 
+    color: #5F002B;
+    margin-left: 4%;
+    font-weight: Regular;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    
+}
+.index-details{
+    font-family: 'Montauk', sans-serif; 
+    font-size: 10px;
+    font-weight: normal; 
+    color: #5F002B;
+    margin-left: 4%;
+    margin-right: 23%;
+    margin-bottom: 6%;
+    font-weight: Regular;
+    src: url(../fonts/Montauk-Regular.otf) format("opentype");
+}
+
+.solidBox {
+    background-color: white;
+}
+
+footer{
+    margin-top: 50px;
+    margin-left: 6.5%; 
+    margin-right: 6%; 
+    font-family: Montauk;
+    color: #5F002B;
+ }
+
