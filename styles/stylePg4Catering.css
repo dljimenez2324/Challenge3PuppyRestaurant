@@ -105,18 +105,20 @@ h1{
     margin-bottom: 4.65%;
 }
 
-.caterSpacing {
+/* .caterSpacing {
     display: flex;
-    /* justify-content: space-evenly; */
-}
+    justify-content: space-evenly;
+} */
 
 .cateringImg {
-    height:100%;
-    max-width: 100%;
-    object-fit: 100%;
+    min-height: 100%;
+    object-fit: cover;
     margin-right: 5px;
-    overflow: hidden;
-    /* trying to make image have similar height as the text column */
+}
+
+.gridTemp {
+    /* lets try using gutter instead of margin with grids */
+    /* where we left off */
 }
 
 .servBg {

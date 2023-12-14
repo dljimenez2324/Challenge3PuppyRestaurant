@@ -10,31 +10,26 @@
     color: #5F002B;
 }
 
+.navbar {
+    margin-bottom: 1%;
+}
+
+.paddingRightZeroed {
+    padding-right: 0px !important;
+    /* used in navbar */
+}
+
+.overallMarginLR {
+    margin-left: 7.3%;
+    margin-right: 7.3%;
+    /* used in navbar */
+}
 .navbar-nav .nav-link {
     font-size: 20px;
     color: #5F002B;
     font-family: 'Fugaz One';
     font-weight: normal;
-    margin-right: 61px;
-}
-
-body {
-    background-image: url('../images/bgtexture.jpg');
-    background-size: cover; 
-    background-position: center; 
-    background-repeat: no-repeat; 
-}
-
-.footerFontMargin {
-    margin-bottom: 10px;
-}
-
-.footerMarginLeft {
-    margin-left: 140px;
-}
-
-.footerMarginRight {
-    margin-right: 140px;
+    margin-left: 61px;
 }
 
 .background-image { 
@@ -42,10 +37,38 @@ body {
     width: 600px;
     height: 400px;
 }
+
+.fontColor {
+    color:#5F002B;
+}
+
+.footerPaddingL{
+    padding-left: 0px !important;
+}
+
+.footerPaddingR{
+    padding-right: 0px !important;
+}
+
+.footerFontMargin {
+    margin-bottom: 10px;
+}
+
+body {
+    background-image: url('../images/bgtexture.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    color: #5F002B;
+    /* all text same color added in previous line for this page */
+}
+
 /* End Common fonts, Navbar, Footer & Background */
 
 /* Start Current Page Styles */
 
-
+.ribbonBg {
+    
+}
 
 /* End Current Page Styles */
