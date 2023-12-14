@@ -82,9 +82,6 @@ body {
 }
 
 .photoGrid {
-    /* display: flex; */
-    /* grid-template-columns: repeat(4, 1fr); */
-    /* gap: 1rem; */
     margin-bottom: 2rem;
 }
 
